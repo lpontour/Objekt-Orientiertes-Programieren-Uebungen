@@ -1,0 +1,9 @@
+F:\_Studium\Objektorientierte Programmierung\Studienleistung\Studienleistung3_Aufgabe2\Arztpraxis\bin\Debug\Arztpraxis.exe.config
+F:\_Studium\Objektorientierte Programmierung\Studienleistung\Studienleistung3_Aufgabe2\Arztpraxis\bin\Debug\Arztpraxis.exe
+F:\_Studium\Objektorientierte Programmierung\Studienleistung\Studienleistung3_Aufgabe2\Arztpraxis\bin\Debug\Arztpraxis.pdb
+F:\_Studium\Objektorientierte Programmierung\Studienleistung\Studienleistung3_Aufgabe2\Arztpraxis\obj\Debug\Arztpraxis.csprojResolveAssemblyReference.cache
+F:\_Studium\Objektorientierte Programmierung\Studienleistung\Studienleistung3_Aufgabe2\Arztpraxis\obj\Debug\Arztpraxis.exe
+F:\_Studium\Objektorientierte Programmierung\Studienleistung\Studienleistung3_Aufgabe2\Arztpraxis\obj\Debug\Arztpraxis.pdb
+F:\_Studium\Objektorientierte Programmierung\Studienleistung\Paradies-70452163-Teil3\Studienleistung3_Aufgabe2\Arztpraxis\bin\Debug\Arztpraxis.exe.config
+F:\_Studium\Objektorientierte Programmierung\Studienleistung\Paradies-70452163-Teil3\Studienleistung3_Aufgabe2\Arztpraxis\obj\Debug\Arztpraxis.exe
+F:\_Studium\Objektorientierte Programmierung\Studienleistung\Paradies-70452163-Teil3\Studienleistung3_Aufgabe2\Arztpraxis\obj\Debug\Arztpraxis.pdb

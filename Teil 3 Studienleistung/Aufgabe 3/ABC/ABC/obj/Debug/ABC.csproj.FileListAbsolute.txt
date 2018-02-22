@@ -1,0 +1,12 @@
+D:\Uni\FH\Lukas\OOProg\Teil 3 Studienleistung\Aufgabe 3\ABC\ABC\bin\Debug\ABC.exe.config
+D:\Uni\FH\Lukas\OOProg\Teil 3 Studienleistung\Aufgabe 3\ABC\ABC\bin\Debug\ABC.exe
+D:\Uni\FH\Lukas\OOProg\Teil 3 Studienleistung\Aufgabe 3\ABC\ABC\bin\Debug\ABC.pdb
+D:\Uni\FH\Lukas\OOProg\Teil 3 Studienleistung\Aufgabe 3\ABC\ABC\obj\Debug\ABC.csprojResolveAssemblyReference.cache
+D:\Uni\FH\Lukas\OOProg\Teil 3 Studienleistung\Aufgabe 3\ABC\ABC\obj\Debug\ABC.exe
+D:\Uni\FH\Lukas\OOProg\Teil 3 Studienleistung\Aufgabe 3\ABC\ABC\obj\Debug\ABC.pdb
+C:\Users\lp_ontour\Desktop\Aufgabe 3\ABC\ABC\bin\Debug\ABC.exe.config
+C:\Users\lp_ontour\Desktop\Aufgabe 3\ABC\ABC\obj\Debug\ABC.exe
+C:\Users\lp_ontour\Desktop\Aufgabe 3\ABC\ABC\obj\Debug\ABC.pdb
+C:\Users\lp_ontour\Desktop\Aufgabe 3\ABC\ABC\bin\Debug\ABC.exe
+C:\Users\lp_ontour\Desktop\Aufgabe 3\ABC\ABC\bin\Debug\ABC.pdb
+C:\Users\lp_ontour\Desktop\Aufgabe 3\ABC\ABC\obj\Debug\ABC.csprojResolveAssemblyReference.cache

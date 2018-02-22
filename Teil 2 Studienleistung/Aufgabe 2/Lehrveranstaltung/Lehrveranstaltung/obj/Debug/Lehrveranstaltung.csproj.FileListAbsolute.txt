@@ -1,0 +1,9 @@
+C:\Users\lp_ontour\Desktop\Lehrveranstaltung\Lehrveranstaltung\bin\Debug\Lehrveranstaltung.exe.config
+C:\Users\lp_ontour\Desktop\Lehrveranstaltung\Lehrveranstaltung\bin\Debug\Lehrveranstaltung.exe
+C:\Users\lp_ontour\Desktop\Lehrveranstaltung\Lehrveranstaltung\bin\Debug\Lehrveranstaltung.pdb
+C:\Users\lp_ontour\Desktop\Lehrveranstaltung\Lehrveranstaltung\obj\Debug\Lehrveranstaltung.csprojResolveAssemblyReference.cache
+C:\Users\lp_ontour\Desktop\Lehrveranstaltung\Lehrveranstaltung\obj\Debug\Lehrveranstaltung.exe
+C:\Users\lp_ontour\Desktop\Lehrveranstaltung\Lehrveranstaltung\obj\Debug\Lehrveranstaltung.pdb
+D:\Uni\FH\Lukas\OOProg\Teil 2 Studienleistung\Aufgabe 2\Lehrveranstaltung\Lehrveranstaltung\bin\Debug\Lehrveranstaltung.exe.config
+D:\Uni\FH\Lukas\OOProg\Teil 2 Studienleistung\Aufgabe 2\Lehrveranstaltung\Lehrveranstaltung\obj\Debug\Lehrveranstaltung.exe
+D:\Uni\FH\Lukas\OOProg\Teil 2 Studienleistung\Aufgabe 2\Lehrveranstaltung\Lehrveranstaltung\obj\Debug\Lehrveranstaltung.pdb

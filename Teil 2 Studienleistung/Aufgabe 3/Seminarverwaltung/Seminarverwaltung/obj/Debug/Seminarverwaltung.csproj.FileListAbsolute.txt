@@ -1,0 +1,13 @@
+C:\Users\lp_ontour\Desktop\Seminarverwaltung\Seminarverwaltung\bin\Debug\Seminarverwaltung.exe.config
+D:\Uni\FH\Lukas\OOProg\Teil 2 Studienleistung\Aufgabe 3\Seminarverwaltung\Seminarverwaltung\bin\Debug\Seminarverwaltung.exe.config
+D:\Uni\FH\Lukas\OOProg\Teil 2 Studienleistung\Aufgabe 3\Seminarverwaltung\Seminarverwaltung\bin\Debug\Seminarverwaltung.exe
+D:\Uni\FH\Lukas\OOProg\Teil 2 Studienleistung\Aufgabe 3\Seminarverwaltung\Seminarverwaltung\bin\Debug\Seminarverwaltung.pdb
+D:\Uni\FH\Lukas\OOProg\Teil 2 Studienleistung\Aufgabe 3\Seminarverwaltung\Seminarverwaltung\obj\Debug\Seminarverwaltung.csprojResolveAssemblyReference.cache
+D:\Uni\FH\Lukas\OOProg\Teil 2 Studienleistung\Aufgabe 3\Seminarverwaltung\Seminarverwaltung\obj\Debug\Seminarverwaltung.exe
+D:\Uni\FH\Lukas\OOProg\Teil 2 Studienleistung\Aufgabe 3\Seminarverwaltung\Seminarverwaltung\obj\Debug\Seminarverwaltung.pdb
+E:\Teil 2 Studienleistung\Aufgabe 3\Seminarverwaltung\Seminarverwaltung\bin\Debug\Seminarverwaltung.exe.config
+E:\Teil 2 Studienleistung\Aufgabe 3\Seminarverwaltung\Seminarverwaltung\obj\Debug\Seminarverwaltung.exe
+E:\Teil 2 Studienleistung\Aufgabe 3\Seminarverwaltung\Seminarverwaltung\obj\Debug\Seminarverwaltung.pdb
+E:\Teil 2 Studienleistung\Aufgabe 3\Seminarverwaltung\Seminarverwaltung\bin\Debug\Seminarverwaltung.exe
+E:\Teil 2 Studienleistung\Aufgabe 3\Seminarverwaltung\Seminarverwaltung\bin\Debug\Seminarverwaltung.pdb
+E:\Teil 2 Studienleistung\Aufgabe 3\Seminarverwaltung\Seminarverwaltung\obj\Debug\Seminarverwaltung.csprojResolveAssemblyReference.cache
